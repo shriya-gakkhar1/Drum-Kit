@@ -1,6 +1,7 @@
 # Drum-Kit
 
 Introduction
+
 Welcome to the DrumKit project! This project is a simple and interactive virtual drumkit that allows users to play various drum sounds by pressing specific keys on their keyboard. The aim is to provide an enjoyable and engaging experience for music enthusiasts and those interested in learning more about digital music creation.
 
 Features
